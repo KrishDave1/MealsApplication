@@ -1,6 +1,6 @@
 # Meals Application
 
-Welcome to the Meals Application! This project is a user-friendly and interactive web application designed to help users discover, search for, and explore a wide variety of meals. With a sleek and responsive design, the Meals Application offers a seamless experience across different devices, ensuring that users can access and enjoy its features from desktops, tablets, and smartphones alike.
+Welcome to the Meals Application!.This project is a user-friendly and interactive web application designed to help users discover, search for, and explore a wide variety of meals. With a sleek and responsive design, the Meals Application offers a seamless experience across different devices, ensuring that users can access and enjoy its features from desktops, tablets, and smartphones alike.
 
 ## Table of Contents
 
